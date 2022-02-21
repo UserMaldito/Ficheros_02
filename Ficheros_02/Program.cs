@@ -9,10 +9,10 @@ namespace Ficheros_02
 {
 	class Program
 	{
-		const string miSegundoFichero = "increible.txt";
+		const string miPrimerFichero = "incredible.txt";
 		static void Main(string[] args)
 		{
-
+			string apple = null;
 
 
 
