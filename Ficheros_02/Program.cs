@@ -12,7 +12,7 @@ namespace Ficheros_02
 		const string miPrimerFichero = "incredible.txt";
 		static void Main(string[] args)
 		{
-			string apple = null;
+			string apple = "weird_Example";
 
 
 
